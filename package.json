@@ -1,6 +1,6 @@
 {
   "name": "Sentry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks for broken links, captures screenshots, and general errors on websites.",
   "main": "main.js",
   "scripts": {
